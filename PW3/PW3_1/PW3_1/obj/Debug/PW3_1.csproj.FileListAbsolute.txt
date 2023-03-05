@@ -1,0 +1,16 @@
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW3_1\PW3_1\bin\Debug\PW3_1.exe.config
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW3_1\PW3_1\bin\Debug\PW3_1.exe
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW3_1\PW3_1\bin\Debug\PW3_1.pdb
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW3_1\PW3_1\obj\Debug\PW3_1.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW3_1\PW3_1\obj\Debug\PW3_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW3_1\PW3_1\obj\Debug\PW3_1.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW3_1\PW3_1\obj\Debug\PW3_1.exe
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW3_1\PW3_1\obj\Debug\PW3_1.pdb
+C:\Users\Вадим\Desktop\Курсы\HomeWork\PW3\PW3_1\PW3_1\bin\Debug\PW3_1.exe.config
+C:\Users\Вадим\Desktop\Курсы\HomeWork\PW3\PW3_1\PW3_1\bin\Debug\PW3_1.exe
+C:\Users\Вадим\Desktop\Курсы\HomeWork\PW3\PW3_1\PW3_1\bin\Debug\PW3_1.pdb
+C:\Users\Вадим\Desktop\Курсы\HomeWork\PW3\PW3_1\PW3_1\obj\Debug\PW3_1.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Курсы\HomeWork\PW3\PW3_1\PW3_1\obj\Debug\PW3_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадим\Desktop\Курсы\HomeWork\PW3\PW3_1\PW3_1\obj\Debug\PW3_1.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Курсы\HomeWork\PW3\PW3_1\PW3_1\obj\Debug\PW3_1.exe
+C:\Users\Вадим\Desktop\Курсы\HomeWork\PW3\PW3_1\PW3_1\obj\Debug\PW3_1.pdb
