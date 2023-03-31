@@ -1,0 +1,8 @@
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW4_1\PW4_2\bin\Debug\PW4_2.exe.config
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW4_1\PW4_2\bin\Debug\PW4_2.exe
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW4_1\PW4_2\bin\Debug\PW4_2.pdb
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW4_1\PW4_2\obj\Debug\PW4_2.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW4_1\PW4_2\obj\Debug\PW4_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW4_1\PW4_2\obj\Debug\PW4_2.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW4_1\PW4_2\obj\Debug\PW4_2.exe
+C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW4_1\PW4_2\obj\Debug\PW4_2.pdb
