@@ -1,8 +1,0 @@
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5Note\bin\Debug\PW5Note.exe.config
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5Note\bin\Debug\PW5Note.exe
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5Note\bin\Debug\PW5Note.pdb
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5Note\obj\Debug\PW5Note.csproj.AssemblyReference.cache
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5Note\obj\Debug\PW5Note.csproj.SuggestedBindingRedirects.cache
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5Note\obj\Debug\PW5Note.csproj.CoreCompileInputs.cache
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5Note\obj\Debug\PW5Note.exe
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5Note\obj\Debug\PW5Note.pdb

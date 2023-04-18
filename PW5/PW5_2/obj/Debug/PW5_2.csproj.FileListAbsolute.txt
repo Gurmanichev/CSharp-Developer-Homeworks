@@ -1,8 +1,0 @@
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5_2\bin\Debug\PW5_2.exe.config
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5_2\bin\Debug\PW5_2.exe
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5_2\bin\Debug\PW5_2.pdb
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5_2\obj\Debug\PW5_2.csproj.AssemblyReference.cache
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5_2\obj\Debug\PW5_2.csproj.SuggestedBindingRedirects.cache
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5_2\obj\Debug\PW5_2.csproj.CoreCompileInputs.cache
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5_2\obj\Debug\PW5_2.exe
-C:\Users\Вадим\Desktop\Курсы\ProjectsC#\PW5\PW5_2\obj\Debug\PW5_2.pdb

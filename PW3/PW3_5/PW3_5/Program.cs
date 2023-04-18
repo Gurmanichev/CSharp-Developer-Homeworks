@@ -53,12 +53,7 @@ namespace PW3_5
 
             }
 
-            
-
-              
-
-
-
+            Console.ReadKey();
 
         }
     }

@@ -35,27 +35,27 @@ namespace PW3_4
             int max; 
             int numberMin = 0;
             string str;
-            bool ok = false;
+            bool success = false;
             min = int.MaxValue;
             max = int.MinValue;
 
-            while (!ok)
+            while (!success)
             {
 
                 Console.Write("Введите количество элементов последовательности: ");
                 str = Console.ReadLine();
-                if (int.TryParse(str, out size) && (size > 0)) ok = true;
+                if (int.TryParse(str, out size) && (size > 0)) success = true;
                 else Console.WriteLine("Ошибка! Введите число элементов ");
             }
             for (I = 1; I <= size; I++)
             {
-                ok = false;
+                success = false;
 
-                while (!ok)
+                while (!success)
                 {
                     Console.WriteLine("Введите элемент {0} ", I);
                     str = Console.ReadLine();
-                    if (int.TryParse(str, out number)) ok = true;
+                    if (int.TryParse(str, out number)) success = true;
                     else Console.WriteLine("Ошибка ввода!Введите целое число!");
                     if (min > number) { min = number; numberMin = I; }
                     if (max < number) max = number;
@@ -68,6 +68,7 @@ namespace PW3_4
                 Console.WriteLine("Номер минимального элемента последовательности = {0}", numberMin);
             }
             Console.WriteLine("Для выхода нажмите Enter...");
+
             Console.ReadLine();
         }
     }

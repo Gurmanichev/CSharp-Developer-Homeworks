@@ -10,33 +10,32 @@ namespace PW_3_3
     {
         static void Main(string[] args)
         {
-            bool simple = true;
-            Console.Write("Введите простое число: ");
-            int userNumber = int.Parse(Console.ReadLine());
-            int A = 2;
+            bool simple  = true;
+            Console.Write("Введите число: ");
+            int n = int.Parse(Console.ReadLine());
+            int i = 2;
 
-            if (simple)
+            while (i <= n - 1)
             {
-                Console.WriteLine("Число простое");
-            }
-            else
-            {
-                Console.WriteLine("Число не простое");
-            }
-
-            while (A <= userNumber - 1)
-            {
-                if (userNumber % A == 0)
+                if (n % i == 0)
                 {
                     simple = false;
                     break;
                 }
-                A++;
+                i++;
             }
 
+            if (simple == true)
+            {
+                Console.WriteLine("Число простое");
+            }
+            if (simple == false)
+            {
+                Console.WriteLine("Число не простое");
+            }
             Console.ReadKey();
-
         }
-            
     }
 }
+            
+    
