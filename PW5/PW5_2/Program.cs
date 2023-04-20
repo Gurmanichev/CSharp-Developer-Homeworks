@@ -15,35 +15,27 @@ namespace PW5
             return userText.Split(' ');
         }
 
-        static void Result(string[] userText)
-        {
-            foreach (string word in userText)
-            {
-                Console.WriteLine(word);
-            }
-        }
+       
 
-        static string Reverse(string[] words)
+        static string Reverse(string userText)
         {
+            string [] splitting = SplitText(userText);
             string reversedPhrase = " ";
-            for (int i = words.Length  - 1; i >= 0; i--)
+            for (int i = splitting.Length  - 1; i >= 0; i--)
             {
-                reversedPhrase += words[i] + " ";
+                reversedPhrase += splitting[i] + " ";
             }
             return reversedPhrase;
+           
+                
         }
-
-
         static void Main(string[] args)
         {
             Console.WriteLine("Введите предложение ");
             string userText = Console.ReadLine();
-            string[] words = SplitText(userText);
-            string reversedPhrase = Reverse(words);
+            string reversedPhrase = Reverse(userText);
 
             Console.WriteLine( reversedPhrase );
-
-
         }
     }
 }
